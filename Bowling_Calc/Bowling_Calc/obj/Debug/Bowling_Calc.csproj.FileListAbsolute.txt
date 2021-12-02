@@ -1,0 +1,15 @@
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\bin\Debug\Bowling_Calc.exe.config
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\bin\Debug\Bowling_Calc.exe
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\bin\Debug\Bowling_Calc.pdb
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\Bowling_Calc.csproj.AssemblyReference.cache
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\MainWindow.g.cs
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\App.g.cs
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\Bowling_Calc_MarkupCompile.cache
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\Bowling_Calc_MarkupCompile.lref
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\MainWindow.baml
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\Bowling_Calc.g.resources
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\Bowling_Calc.Properties.Resources.resources
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\Bowling_Calc.csproj.GenerateResource.cache
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\Bowling_Calc.csproj.CoreCompileInputs.cache
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\Bowling_Calc.exe
+C:\Users\fusco_anthony\source\repos\Bowling_Calc\Bowling_Calc\obj\Debug\Bowling_Calc.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="Bowling_Calc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bowling_Calc"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="#FF0360AE">
+        <TextBlock HorizontalAlignment="Left" Height="29" Margin="63,84,0,0" TextWrapping="Wrap" Text="Game #1 Score:" VerticalAlignment="Top" Width="118"/>
+        <TextBlock HorizontalAlignment="Left" Height="29" Margin="63,139,0,0" TextWrapping="Wrap" Text="Game #2 Score:" VerticalAlignment="Top" Width="118"/>
+        <TextBlock HorizontalAlignment="Left" Height="29" Margin="63,192,0,0" TextWrapping="Wrap" Text="Game #3 Score:" VerticalAlignment="Top" Width="118"/>
+        <RadioButton x:Name="male" Content="Male" HorizontalAlignment="Left" Margin="61,52,0,0" VerticalAlignment="Top" Checked="male_Checked"/>
+        <RadioButton x:Name="female" Content="Female" HorizontalAlignment="Left" Margin="124,52,0,0" VerticalAlignment="Top" Checked="female_Checked"/>
+        <Button x:Name="Clear_btn" Content="Clear" HorizontalAlignment="Left" Margin="288,277,0,0" VerticalAlignment="Top" Width="90" Background="White" Click="Clear_btn_Click" Height="29"/>
+        <Button x:Name="Calc_btn" Content="Calculate" HorizontalAlignment="Left" Margin="170,277,0,0" VerticalAlignment="Top" Width="90" Background="White" Click="Calc_btn_Click" Height="29"/>
+        <Button x:Name="Exit_btn" Content="Exit" HorizontalAlignment="Left" Margin="409,277,0,0" VerticalAlignment="Top" Width="90" Background="White" Click="Exit_btn_Click" Height="29"/>
+        <TextBox x:Name="Score1" HorizontalAlignment="Left" Height="22" Margin="170,83,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="57"/>
+        <TextBox x:Name="Score2" HorizontalAlignment="Left" Height="22" Margin="170,138,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="57"/>
+        <TextBox x:Name="Score3" HorizontalAlignment="Left" Height="22" Margin="170,192,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="57"/>
+        <TextBlock HorizontalAlignment="Left" Margin="267,83,0,0" TextWrapping="Wrap" Text="Total Score:" VerticalAlignment="Top" Height="22" Width="66"/>
+        <TextBlock x:Name="Answer"  HorizontalAlignment="Left" Margin="333,84,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="61,10,0,0" TextWrapping="Wrap" Text="Please Enter Name" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="284,105,0,0" TextWrapping="Wrap" Text="Average:" VerticalAlignment="Top" Width="49"/>
+        <TextBlock x:Name="Average"  HorizontalAlignment="Left" Margin="333,105,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
